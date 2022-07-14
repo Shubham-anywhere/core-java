@@ -1,26 +1,64 @@
 # core-java
 
-## Java Basics 
-https://www.w3schools.com/java/
-
-## Java Collections 
-https://www.javatpoint.com/collections-in-java 
-<br>
-https://www.geeksforgeeks.org/collections-in-java-2/
-
-## Exception Handling 
-https://www.geeksforgeeks.org/exceptions-in-java/
-<br>
-https://www.javatpoint.com/exception-handling-in-java
+## Resources
+JavaTPoint W3Schools GFG Youtube Udemy
 
 ## Resources
 
-- [ ] Mercury
-  - [x] Venus
-  - [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Java Basics
+  - [x] Java comments 
+  - [x] Java variables
+  - [x] Java DataTypes
+  - [x] TypeCasting 
+  - [x] Operators 
+  - [x] Strings
+  - [x] Maths
+  - [x] Boolean
+  - [x] If...else
+  - [x] switch
+  - [x] while loop
+  - [x] for loop
+  - [x] break/continue
+  - [x] arrays
+
+
+- [ ] Java OOPs
+  - [x] object and class
+  - [x] constructor
+  - [x] static keyword
+  - [ ] this keyword
+  - [x] Inheritence
+  - [x] Polymorphism
+    - [ ] Method overloading
+    - [ ] Method Over-riding
+  - [x] Abstraction
+  - [x] Encapsulation
+  - [ ] Theory ( not implemented yet)
+    - [ ] coupling
+    - [ ] cohesion
+    - [ ] association
+    - [ ] aggregation
+    - [ ] composition
+
+
+- [ ] Java Collection
+  - [x] collection and Interface
+  - [x] Iterable
+  - [ ] ArrayList
+    - [x] Basic Implementation (syntax)
+    - [ ] other methods
+  - [ ] LinkedList
+    - [x] Basic Implementation (syntax)
+    - [ ] other methods
+  - [ ] Vector
+    - [x] Basic Implementation (syntax)
+    - [ ] other methods
+  - [ ] Queue
+    - [x] Basic Implementation (syntax)
+    - [ ] other methods
+  - [ ] Set
+    - [x] Basic Implementation (syntax)
+    - [ ] other methods
+
+
+- [x] Exception Handling
