@@ -16,8 +16,8 @@ https://www.javatpoint.com/exception-handling-in-java
 ## Resources
 
 - [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
+  - [x] Venus
+  - [x] Earth (Orbit/Moon)
 - [x] Mars
 - [ ] Jupiter
 - [ ] Saturn
