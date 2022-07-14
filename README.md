@@ -34,11 +34,11 @@ JavaTPoint W3Schools GFG Youtube Udemy
   - [x] Abstraction
   - [x] Encapsulation
   - [ ] Theory ( not implemented yet)
-    - [ ] coupling
-    - [ ] cohesion
-    - [ ] association
-    - [ ] aggregation
-    - [ ] composition
+    - [x] coupling
+    - [x] cohesion
+    - [x] association
+    - [x] aggregation
+    - [x] composition
 
 
 - [ ] Java Collection
