@@ -15,5 +15,12 @@ https://www.javatpoint.com/exception-handling-in-java
 
 ## Resources
 
--[ ]abs
-  -[ ]aabs
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
